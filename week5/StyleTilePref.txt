@@ -1,0 +1,7 @@
+For my website I chose to go with a more traditional layout, my style tile 1. The tabs are on the top, my
+picture is on the leftside of the page while the rest of the content is on the rightside of the page. 
+This layout made sense for the website I'm creating, it allows me to organize the content and to put an 
+emphasis on the content I deem more important. The style tile gives enough structure and layed out the
+website components out well enough, that a comp isn't necessarily needed. This more traditional style 
+tile allowed me to play around with the padding/sizing and quickly make the best decision for how I'd 
+like the website to look.
